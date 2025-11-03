@@ -18,7 +18,7 @@ This project re-imagines the traditional, slow, and manual loan application proc
 🚀 Demo Video
 (Insert your 3-minute YouTube demo link here. This is the most important part!)
 
-[YOUTUBE_DEMO_LINK_HERE]
+[https://youtu.be/7Qc6UEft-VE]
 
 ✨ Key Features
 Conversational AI Intake: A user-friendly React chat interface that guides the user through the application, collecting all necessary information (name, income, credit score, etc.).
